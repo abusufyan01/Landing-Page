@@ -1,10 +1,6 @@
 # Landing-Page Project
-# Landing Page – The Odin Project
 
-This project is part of **The Odin Project – Foundations curriculum**.  
-The goal of this project is to build a responsive landing page using **HTML and CSS**, based on a provided design.
 
----
 
 ## 📌 Project Overview
 
